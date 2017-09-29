@@ -1,2 +1,5 @@
 *.dat
 results/data
+
+#do not ignore anything starting with a
+!a*
